@@ -25,3 +25,4 @@
 * Azure Key Vault
 * Github Actions
 * Docker
+* Terraform
